@@ -364,10 +364,15 @@ Realice este proceso para las 3 VMs, por ahora lo haremos a mano una por una, si
     ```
 
     * VM1:
+
     ![](images/parte2Punto3VM1.png)
+
     ![](images/parte2Punto3VM1cpu.png)
+
     * VM2:
+
     ![](images/parte2Punto3VM2.png)
+    
     ![](images/parte2Punto3VM2cpu.png)
 
 **Preguntas**
